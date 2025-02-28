@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-	<Name value="Mods_Up_by_1"/>
-	<DisplayName value="Mods Up by 1"/>
-	<Description value="Increases the mod slots by 0ne per tier"/>
+	<Name value="Mods_Slots_Plus"/>
+	<DisplayName value="Mod Slots Plus"/>
+	<Description value="Increases the mod slots by X per tier"/>
 	<Author value="Rygorn85"/>
 	<Version value="0.0.1"/>
 	<Website value=""/>

@@ -12,7 +12,7 @@
    
    1. About
    
-   Mod Sluts Plus offers an increase to mod slots for armor, weapons, and tools. There are multiple offering
+   Mod Slots Plus offers an increase to mod slots for armor, weapons, and tools. There are multiple offering
    of this mod to include an increase of 1, 2 ,3, or 4. This will increase each items mod slots brom the
    vanilla value by the number of the chosen version of the mod. There is also an option that allows all tiers
    to have 10 mod slots for those that like to be OP/Cheaty.
