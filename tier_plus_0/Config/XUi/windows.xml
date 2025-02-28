@@ -1,0 +1,4 @@
+<config>
+  <set xpath="/windows/window[@name='windowAssemble']/panel[@name='content']/rect/rect/grid[@name='parts']/@rows">9</set>
+  <set xpath="/windows/window[@name='itemInfoPanel']/rect[@name='contentInfo']/grid[@name='parts']/@cols">9</set>
+</config>

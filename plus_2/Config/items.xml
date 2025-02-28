@@ -1,4 +1,0 @@
-<configs>
-    <set xpath="/items/item/effect_group/passive_effect[@name='ModSlots']/@value">+4,+4,+4,+4,+4,+4</set>
-</configs>
-	

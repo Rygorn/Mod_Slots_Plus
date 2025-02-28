@@ -21,10 +21,10 @@
    
    2. Installation
    
-   Inside the downloaded zip file should be five folders: plus_1, plus_2, plus_3, plus_4, and all_10. Choose
-   only one of the options to install in your mods folder. It should be pretty obvious what each one will do,
-   but as an example, the plus_2 folder is the option to add two mod slots more than the vanilla value for each
-   tier. Again, choose ONLY ONE of the included folders to use.
+   Inside the downloaded zip file should be five folders: tier_plus_1, tier_plus_2, tier_plus_3, tier_plus_4, and
+   tier_all_10. Choose only one of the options to install in your mods folder. It should be pretty obvious what
+   each one will do, but as an example, the plus_2 folder is the option to add two mod slots more than the vanilla
+   value for each tier. Again, choose ONLY ONE of the included folders to use.
    
    
    
