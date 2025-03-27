@@ -33,5 +33,18 @@
 		<passive_effect name="ModSlots" operation="base_set" value="10,10,10,10,10,10" tier="1,2,3,4,5,6"/>
 	</append>
 	
+	
+	<!-- Conditionals for IZY weapons -->
+	
+	<conditional>
+		<if cond="mod_loaded('IZY_RMP_556pack')">
+			
+			<!-- IZY 556 code here -->
+			
+		</if>
+	</conditional>
+	
+	
+	
 </configs>
 	
